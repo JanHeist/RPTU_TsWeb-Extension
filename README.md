@@ -6,12 +6,14 @@
 Fügt auf der Website der RPTU-Zeiterfassung eine automatische Berechnung folgender üblichen Arbeitszeiten hinzu.
 - 08:45 Stunden (= 08:15 + 0:30 Pause)
 - 08:18 Stunden (= 07:48 + 0:30 Pause)
-- 06:00 Studnen (= 06:00 + 0:00 Pause)
+- 06:00 Stunden (= 06:00 + 0:00 Pause)
 - Bis jetzt (Automatische Pausenrechnung)
 
 ## Aussehen:
 ![](preview.png)
 
+## Entwicklung
+Der Quellcode ist auf GitHub hinterlegt: https://github.com/JanHeist/RPTU_TsWeb-Extension
 <details>
 <summary>Entwickler einblenden</summary>
 
