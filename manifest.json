@@ -17,8 +17,14 @@
                 "scripts/rptu-timetools.js"
             ],
             "matches": [
-                "https://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx"
+                "https://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx",
+                "*://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx"
             ]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "firefox@janheist.dev"
+        }
+    }
 }
