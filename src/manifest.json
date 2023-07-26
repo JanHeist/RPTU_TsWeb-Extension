@@ -21,10 +21,5 @@
                 "*://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx"
             ]
         }
-    ],
-    "browser_specific_settings": {
-        "gecko": {
-            "id": "firefox@janheist.dev"
-        }
-    }
+    ]
 }
