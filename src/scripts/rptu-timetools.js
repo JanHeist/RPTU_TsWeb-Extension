@@ -52,9 +52,8 @@ function formatTime(date) {
 function calculateNow(startTime, today) {
     // Aktuelle Zeit und Differenz ermitteln
     let _now = new Date();
-    startTime = new Date(today + startTime);
-    _now = _now - startTime;
-    _now = new Date(_now);
+    let startDate = new Date(today + startTime);
+    _now = new Date(new Date(today + "00:00").setMinutes((_now.getTime() - startDate.getTime()) / 36e5 * 60));
 
     // Pausen berechnen
     if (_now.getHours() == 6) {
