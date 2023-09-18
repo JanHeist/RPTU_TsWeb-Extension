@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "RPTU TsWeb-Extension",
-    "version": "1.1",
+    "version": "1.2",
     "description": "Fügt auf der Website der RPTU-Zeiterfassung eine automatische Berechnung von üblichen Arbeitszeiten hinzu.",
     "author": "Jan Heist",
 
