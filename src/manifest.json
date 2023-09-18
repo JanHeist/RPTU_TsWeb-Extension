@@ -18,7 +18,9 @@
             ],
             "matches": [
                 "https://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx",
-                "*://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx"
+                "*://zeiterfassung.verw.uni-kl.de/tsweb/korrektur.aspx",
+                "https://zeiterfassung.verw.uni-kl.de/tsweb2/korrektur.aspx",
+                "*://zeiterfassung.verw.uni-kl.de/tsweb2/korrektur.aspx"
             ]
         }
     ]
