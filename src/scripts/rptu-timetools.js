@@ -131,5 +131,5 @@ if (dataTable) {
     }
 }
 
-console.log("%cRPTU Timeserver Addon von Jan Heist", "background: white; color: gray; font-size: x-large; border: 5px solid; border-radius: 3px; padding: 10px; text-align: center");
+//console.log("%cRPTU Timeserver Addon von Jan Heist", "background: white; color: gray; font-size: x-large; border: 5px solid; border-radius: 3px; padding: 10px; text-align: center");
 // endregion main
